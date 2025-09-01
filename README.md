@@ -1,6 +1,6 @@
-# Traverlers Insurance Claim Fraud Detection
+# Car Insurance Claim Fraud Detection
 
-This project was originally a modeling competition for the class STAT 8501 Advancned Regression Technique, hosted by [Travelers Insurance](https://www.travelers.com). The task was to identify first party physical damage fraudulence. The rules of this competition can be found in [Kaggle](https://www.kaggle.com/c/2018-trv-statistical-modeling-competition-umn).
+The dataset for the Car Insurance Fraud Claim can be found on [Kaggle]([https://www.kaggle.com/c/2018-trv-statistical-modeling-competition-umn](https://www.kaggle.com/competitions/2018-trv-statistical-modeling-competition-umn/data)).
 
 ## Directory Structure
 
