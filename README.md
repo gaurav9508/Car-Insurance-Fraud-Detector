@@ -83,4 +83,3 @@ For `zip_code`, target encoding resulted in a worse performance than a simple tr
 
 I deployed XGBoost model as a Flask web app, which can return the probability that an insurance claim is fraudulent based on user inputs.
 
-<img src="https://i.imgur.com/QffJHZY.gif" width=500>
